@@ -1,0 +1,47 @@
+{
+"tournaments":
+    {
+    "host":
+        {
+        "id":"IOM",
+        "updated":"2021-01-10T03:23:08-05:00",
+        "next_update":10,
+        "site":
+            [
+                {
+                "id":"COM",
+                "players":28553,
+                "tables":4959,
+                "active_tournaments":2345,
+                "total_tournaments":15867,
+                "play_money":
+                    {
+                    "players":10644,
+                    "tables":2019,
+                    "active_tournaments":954
+                    },
+                "clubs":418134,
+                "club_members":4961153
+                },
+                {
+                "id":"IT",
+                "players":11328,
+                "tables":2128,
+                "active_tournaments":979
+                },
+                {
+                "id":"FR",
+                "players":11670,
+                "tables":2261,
+                "active_tournaments":1184
+                },
+                {
+                "id":"ES",
+                "players":11485,
+                "tables":2213,
+                "active_tournaments":1155
+                }
+            ]
+        }
+    }
+}
